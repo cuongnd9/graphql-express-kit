@@ -1,5 +1,5 @@
 {
-  "name": "graphql-kit",
+  "name": "graphql-express-kit",
   "version": "1.0.0",
   "main": "src/index.ts",
   "scripts": {
@@ -25,10 +25,15 @@
     }
   },
   "dependencies": {
-    "apollo-server": "^2.15.0",
+    "apollo-server-express": "^2.16.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "diana-js": "^0.7.0",
+    "express": "^4.17.1",
     "graphql": "^15.1.0",
     "graphql-scalars": "^1.1.2",
     "graphql-tools": "^4.0.7",
+    "hera-js": "^0.4.0",
     "joi": "^14.3.1",
     "juno-js": "^0.1.1",
     "lodash": "^4.17.15",

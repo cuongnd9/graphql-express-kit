@@ -1,9 +1,9 @@
-# graphql-kit
+# graphql-express-kit
 
-[![Hits-of-Code](https://hitsofcode.com/github/103cuong/graphql-kit)](https://hitsofcode.com/view/github/103cuong/graphql-kit)
-[![GitHub](https://img.shields.io/github/license/103cuong/graphql-kit.svg)](https://github.com/103cuong/graphql-kit/blob/master/LICENSE)
+[![Hits-of-Code](https://hitsofcode.com/github/103cuong/graphql-express-kit)](https://hitsofcode.com/view/github/103cuong/graphql-express-kit)
+[![GitHub](https://img.shields.io/github/license/103cuong/graphql-express-kit.svg)](https://github.com/103cuong/graphql-express-kit/blob/master/LICENSE)
 
-> 🛸🚀 A Node kit with TypeScript, GraphQL, Sequelize, PostgreSQL and awesome tools.
+> 🛸🦍 A Node kit with TypeScript, Express, GraphQL, Sequelize, PostgreSQL and awesome tools.
 
 ## Prepare
 
@@ -44,12 +44,8 @@ yarn start:dev
 cd scripts && ./start.sh
 ```
 
-<p>
-  <img src="https://github.com/103cuong/103cuong/blob/master/cat.gif" alt="cat" width="200" />
-</p>
-
 🙌 Awesome
 
 ## License
 
-MIT © [103cuong](https://github.com/103cuong)
+MIT © [Cuong Tran](https://github.com/103cuong)
